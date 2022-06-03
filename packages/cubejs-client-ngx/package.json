@@ -18,7 +18,7 @@
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/core": "^10.0.5",
+    "@angular/core": "^11.0.5",
     "@cubejs-client/core": "^0.20.3",
     "rxjs": "^6.6.0"
   },
@@ -36,7 +36,7 @@
     "@angular/cli": "^10.0.3",
     "@angular/compiler": "^10.0.5",
     "@angular/compiler-cli": "^10.0.5",
-    "@angular/core": "^10.0.5",
+    "@angular/core": "^11.0.5",
     "ng-packagr": "^10.0.3",
     "npm-watch": "^0.7.0",
     "tsickle": "^0.39.1",
