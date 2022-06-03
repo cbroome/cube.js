@@ -1220,10 +1220,10 @@
   resolved "https://registry.yarnpkg.com/@ctrl/tinycolor/-/tinycolor-3.3.1.tgz#fa0efcf813daa43f8a6aef3ddaa80f7e66f1278e"
   integrity sha512-jUJrjU62MUgHDSu5JfONfgRM2V7GfN5KknsygfIbxwRZXGeayIzxk4O9GiYgEAr9DG5HJThTF5+a5x3wtrOKzQ==
 
-"@cubejs-client/core@^0.24.8":
-  version "0.24.8"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.24.8.tgz#a9c59a099d5c5f845206379dcdff0ecf0e816c70"
-  integrity sha512-Q8ZD3XZG2vmuA2G3I0bbYV3eTzz5niSLhaRe98ef0mZGtE6GG6WS2uP/nuc4gZ5DMU20duinrvYxQa/aiQfwXA==
+"@cubejs-client/core@^0.24.14", "@cubejs-client/core@^0.24.9":
+  version "0.24.14"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.24.14.tgz#320e7701b820699bff19f5be927155f67eb47023"
+  integrity sha512-n6o9OI2NWo4QOOvXoozjKXEi9P715VrF9GkLepE2frVFF4WoOVKHexfsDzu2wDqaZW5LklODCcGGc6mp+17Kgg==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -1234,13 +1234,13 @@
     url-search-params-polyfill "^7.0.0"
     uuid "^3.4.0"
 
-"@cubejs-client/react@^0.24.8":
-  version "0.24.8"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.24.8.tgz#93002c483d7adc2e1cb4781b51aba06a283e32bd"
-  integrity sha512-44O4VoFaAKqgFAiZ8oGN1Xwfvd+W3VUrGjyJR4mIY4WVmE19rsSEyzFM47bjWuVGud92XCXq/eiFBDEurK1Nsg==
+"@cubejs-client/react@^0.24.9":
+  version "0.24.14"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.24.14.tgz#e2515d9005753b34de8d3fdc3294c411b9fbcce6"
+  integrity sha512-HKg81n9unCU5xE67vCfDhah2hoIxRPD8uNQ6hnRGT2GKE/OHuX+4Y52o76uXwemcj79O2ME10sdKzT32fTOswg==
   dependencies:
     "@babel/runtime" "^7.1.2"
-    "@cubejs-client/core" "^0.24.8"
+    "@cubejs-client/core" "^0.24.14"
     core-js "^3.6.5"
     ramda "^0.27.0"
 
@@ -2346,9 +2346,9 @@ async-validator@~1.11.3:
   integrity sha512-XNtCsMAeAH1pdLMEg1z8/Bb3a8cdCbui9QbJATRFHHHW5kT6+NPI3zSVQUXgikTFITzsg+kYY5NTWhM2Orwt9w==
 
 async@^2.6.2:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
@@ -7261,9 +7261,9 @@ lodash.upperfirst@^4.3.1:
   integrity sha1-E2Xt9DFIBIHvDRxolXpe2Z1J984=
 
 "lodash@>=3.5 <5", lodash@^4.16.0, lodash@^4.16.5, lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.20, lodash@^4.17.4, lodash@^4.17.5:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loglevel@^1.6.6:
   version "1.7.1"
