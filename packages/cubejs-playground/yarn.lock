@@ -1220,10 +1220,10 @@
   resolved "https://registry.yarnpkg.com/@ctrl/tinycolor/-/tinycolor-3.3.1.tgz#fa0efcf813daa43f8a6aef3ddaa80f7e66f1278e"
   integrity sha512-jUJrjU62MUgHDSu5JfONfgRM2V7GfN5KknsygfIbxwRZXGeayIzxk4O9GiYgEAr9DG5HJThTF5+a5x3wtrOKzQ==
 
-"@cubejs-client/core@^0.24.8":
-  version "0.24.8"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.24.8.tgz#a9c59a099d5c5f845206379dcdff0ecf0e816c70"
-  integrity sha512-Q8ZD3XZG2vmuA2G3I0bbYV3eTzz5niSLhaRe98ef0mZGtE6GG6WS2uP/nuc4gZ5DMU20duinrvYxQa/aiQfwXA==
+"@cubejs-client/core@^0.24.14", "@cubejs-client/core@^0.24.9":
+  version "0.24.14"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.24.14.tgz#320e7701b820699bff19f5be927155f67eb47023"
+  integrity sha512-n6o9OI2NWo4QOOvXoozjKXEi9P715VrF9GkLepE2frVFF4WoOVKHexfsDzu2wDqaZW5LklODCcGGc6mp+17Kgg==
   dependencies:
     "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
@@ -1234,13 +1234,13 @@
     url-search-params-polyfill "^7.0.0"
     uuid "^3.4.0"
 
-"@cubejs-client/react@^0.24.8":
-  version "0.24.8"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.24.8.tgz#93002c483d7adc2e1cb4781b51aba06a283e32bd"
-  integrity sha512-44O4VoFaAKqgFAiZ8oGN1Xwfvd+W3VUrGjyJR4mIY4WVmE19rsSEyzFM47bjWuVGud92XCXq/eiFBDEurK1Nsg==
+"@cubejs-client/react@^0.24.9":
+  version "0.24.14"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.24.14.tgz#e2515d9005753b34de8d3fdc3294c411b9fbcce6"
+  integrity sha512-HKg81n9unCU5xE67vCfDhah2hoIxRPD8uNQ6hnRGT2GKE/OHuX+4Y52o76uXwemcj79O2ME10sdKzT32fTOswg==
   dependencies:
     "@babel/runtime" "^7.1.2"
-    "@cubejs-client/core" "^0.24.8"
+    "@cubejs-client/core" "^0.24.14"
     core-js "^3.6.5"
     ramda "^0.27.0"
 
@@ -9352,9 +9352,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
